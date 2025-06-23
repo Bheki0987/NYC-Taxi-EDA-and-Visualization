@@ -26,7 +26,7 @@ Most pickups in Manhattan (Midtown/JFK Airport).
 🚀 How to Use This Project
 1. Clone the Repo
 bash
-git clone https://github.com/Bheki0987/NYC-Taxi-EDA and Visualization.git   
+git clone https://github.com/Bheki0987/NYC-Taxi-EDA-and-Visualization.git   
 2. Install Dependencies
 bash
 pip install -r requirements.txt  
