@@ -14,13 +14,13 @@ Key Questions Answered:
 ## 🔍 Key Findings
 1. Trip Distance vs. Fare Amount
 Weak correlation: Long trips don’t always mean higher fares (potential flat-rate trips).
-Outliers: Some trips show $0 fare despite distance traveled.
+2. Outliers: Some trips show $0 fare despite distance traveled.
 
-2. Time-Based Trends
+3. Time-Based Trends
 Peak Hours: 4–6 PM (evening rush hour).
 Weekend Demand: Higher late-night trips (Fri/Sat).
 
-3. Geographic Hotspots
+4. Geographic Hotspots
 Most pickups in Manhattan (Midtown/JFK Airport).
 
 ## 🚀 How to Use This Project
